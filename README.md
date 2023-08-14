@@ -1,6 +1,6 @@
 # BRtestsite.github.io
-Site for experimenting with webdev.
-link to site: 
+<p>Site for experimenting with webdev. </p>
+<p>link to site: </p>
 https://plasmazen.github.io/BRtestsite.github.io/
-testing pull-request
-gonna learn some css!
+<p>testing pull-request</p>
+<p>gonna learn some css!</p>
